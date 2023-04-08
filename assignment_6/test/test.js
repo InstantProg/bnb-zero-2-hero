@@ -63,5 +63,10 @@ describe("MYERC721", async () => {
                 await user_3_nft_receiver.getAddress()
             )}`
         )
+        console.log(
+            `The balance of the user2  after transfer= ${await MYERC721Deployed.balanceOf(
+                await user2.getAddress()
+            )}`
+        )
     })
 })
