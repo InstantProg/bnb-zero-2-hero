@@ -31,3 +31,7 @@ To run the tests, run the following command:
 
 ## License
 This project is licensed under the MIT license.
+
+# Link for the notes:
+All of the learning I have done on this assignment are here:
+https://farrukhodinaev2002.notion.site/6-NFTs-PolyNetwork-Hack-ad9d05ac45a8408bbcd13abb0509ac55
